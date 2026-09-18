@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "name": "에너지살림",
+  "brand": "ENERGYLIVING",
+  "mark": "EN",
+  "worker": "energyliving",
+  "url": "https://energyliving.webnote-lab.workers.dev",
+  "description": "에너지살림의 정보와 실용 가이드를 정리합니다.",
+  "tagline": "에너지살림, 차근차근 알아보기",
+  "categories": [
+    {
+      "description": "에너지살림의 정보와 실용 가이드를 정리합니다.",
+      "name": "에너지살림",
+      "slug": "energyliving"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/energyliving/issues"
+}
